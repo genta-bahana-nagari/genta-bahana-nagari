@@ -1,10 +1,10 @@
-### Hi, I'm Genta. People calls me that. 👋  
+### Hi there, I'm Genta. A lot of people calls me that. 👋  
 
 ---
 
 ### 🌟 About Me:
 🎓 **2nd Depok Vocational High School, Sleman, Yogyakarta**  
-🎓 **Application-Information-Network System**  
+🎓 **Application-Information-Network System Major**  
 
 ---
 
