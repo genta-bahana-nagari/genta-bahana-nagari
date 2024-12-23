@@ -27,4 +27,11 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Node-Red](https://img.shields.io/badge/Node--Red-8F0000?style=for-the-badge&logo=node-red&logoColor=white)
 
----
+## My Experiences
+- 📄 Know about my experiences [https://drive.google.com/file/d/1poK5SafFD54ft0oFd75NZwe99upeUeuR/view?usp=drive_link](https://drive.google.com/file/d/1poK5SafFD54ft0oFd75NZwe99upeUeuR/view?usp=drive_link)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=genta-bahana-nagari&show_icons=true&locale=en&layout=compact" alt="genta-bahana-nagari" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=genta-bahana-nagari&show_icons=true&locale=en" alt="genta-bahana-nagari" /></p>
+
+
