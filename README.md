@@ -5,8 +5,6 @@
 <br>
 🔭 I’m currently preparing for intern
 <br>
-🔭 I’m currently preparing for intern
-<br>
 💻 All of my projects are available on gentabahana.me
 
 
