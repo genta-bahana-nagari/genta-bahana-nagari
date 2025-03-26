@@ -5,7 +5,7 @@
 <br>
 🔭 I’m currently preparing for intern
 <br>
-💻 All of my projects are available on gentabahana.me
+💻 All of my projects are available on [gentabahana.me](https://gentabahana.me)
 
 
 ### 🌐 Socials:
