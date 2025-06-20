@@ -68,12 +68,6 @@ Hello! I'm **Genta Bahana Nagari**, a passionate student currently pursuing my e
 
 ---
 
-# 🔝 Top Contributed Repositories
-
-![](https://github-contributor-stats.vercel.app/api?username=genta-bahana-nagari&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
 # 💡 Developer Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
