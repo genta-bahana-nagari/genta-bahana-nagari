@@ -1,6 +1,8 @@
 <div align="center">
-
+  
   ![Gen](https://github.com/user-attachments/assets/eac27d62-64f5-4f7f-b8d6-d503bc36d311)
+
+</div>
 
 
 # 👨‍💻 About Me
@@ -78,4 +80,3 @@ Hello! I'm **Genta Bahana Nagari**, a passionate student currently pursuing my e
 
 ---
 
-</div>
