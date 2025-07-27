@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![Gen](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDdqbGY3dnloamZ6bXMweWU4aXlsZ3IxMHNtNmZ0cW9nN2pqMDJkbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26FKZUqmaGFahH8li/giphy.gif)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Genta+Bahana+Nagari!)](https://git.io/typing-svg) </br>
 
 </div>
 
@@ -9,7 +9,7 @@
 
 <img align="right" width="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDgyMjl4bWdnb2M0OWgxeHIza2NkcW91MWQ3cnU1ZGRmcDk4MXpndiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H4uE6w9G1uK4M/giphy.gif">
 
-<p align="left">Hello! I'm <strong>Genta Bahana Nagari</strong>, a passionate student currently pursuing my education at <strong>2nd Depok Vocational High School, Sleman, Yogyakarta</strong>, majoring in <strong>Application-Information-Network Systems</strong></p>
+<p align="left">I'm a passionate student currently pursuing my education at <strong>2nd Depok Vocational High School, Sleman, Yogyakarta</strong>, majoring in <strong>Application-Information-Network Systems</strong></p>
 
 
 <ul align="left">
