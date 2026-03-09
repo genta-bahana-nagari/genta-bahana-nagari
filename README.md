@@ -15,7 +15,7 @@
 <ul align="left">
 <li>🎯 Currently preparing for my professional internship, enjoy working on real-world projects and improving my skills</li>
 <li>🚀 Deep learning as Full-Stack Developer student, passionate about Frontend & Backend Technologies</li>
-<li>🌐 You can explore my portfolio and projects at: <a href="https://gentabahana.me" target="_blank">gentabahana.me</a></li>
+<!-- <li>🌐 You can explore my portfolio and projects at: <a href="https://gentabahana.me" target="_blank">gentabahana.me</a></li> -->
 </ul>
 
 ---
