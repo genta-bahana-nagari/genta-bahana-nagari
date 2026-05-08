@@ -9,14 +9,7 @@
 
 <img align="right" width="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDgyMjl4bWdnb2M0OWgxeHIza2NkcW91MWQ3cnU1ZGRmcDk4MXpndiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H4uE6w9G1uK4M/giphy.gif">
 
-<p align="left">I'm a passionate student currently pursuing my education at <strong>2nd Depok Vocational High School, Sleman, Yogyakarta</strong>, majoring in <strong>Application-Information-Network Systems</strong></p>
-
-
-<ul align="left">
-<li>🎯 Currently preparing for my professional internship, enjoy working on real-world projects and improving my skills</li>
-<li>🚀 Deep learning as Full-Stack Developer student, passionate about Frontend & Backend Technologies</li>
-<!-- <li>🌐 You can explore my portfolio and projects at: <a href="https://gentabahana.me" target="_blank">gentabahana.me</a></li> -->
-</ul>
+<p align="left">Currently eep learning to pursue Technology & Information career, passionate about Frontend & Backend Technologies. You can explore my portfolio <a href="https://www.gentabahana.web.id" target="_blank">here</a></p>
 
 ---
 
