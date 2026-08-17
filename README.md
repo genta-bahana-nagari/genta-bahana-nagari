@@ -9,7 +9,7 @@
 
 <img align="right" width="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDgyMjl4bWdnb2M0OWgxeHIza2NkcW91MWQ3cnU1ZGRmcDk4MXpndiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H4uE6w9G1uK4M/giphy.gif">
 
-<p align="left">Currently eep learning to pursue Technology & Information career, passionate about Frontend & Backend Technologies. You can explore my portfolio <a href="https://profile.gentabahana.web.id" target="_blank">here</a></p>
+<p align="left">Currently deep learning to pursue Technology & Information career, passionate about Frontend & Backend Technologies. You can explore my portfolio <a href="https://profile.gentabahana.web.id" target="_blank">here</a></p>
 
 ---
 
