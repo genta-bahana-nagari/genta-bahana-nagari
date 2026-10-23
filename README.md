@@ -1,74 +1,91 @@
 <div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Genta+Bahana+Nagari!)](https://git.io/typing-svg) </br>
+
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub><code>root@genta-bahana-nagari:~# systemctl start exploration.service</code></sub></p>
+<h1>Genta Bahana Nagari</h1>
+<h2>Front End | Full Stack | Open Source Enthusiast</h2>
+<p><strong>● Eat >> Sleep >> Build >> Repeat</strong></p>
+<p><sub>Based in Yogyakarta, Indonesia · Busy at Universitas Gadjah Mada</sub></p>
+<p><a href="https://github.com/genta-bahana-nagari">GitHub</a> &nbsp;·&nbsp; <a href="https://www.gentabahana.web.id">Website</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/190815098?u=b95f87b8a431aa6d7377e8bbbbcfa16ff71a8cdd&amp;v=4" width="180" alt="Genta Bahana Nagari GitHub avatar" />
+</td>
+</tr>
+</table>
+</div>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=genta-bahana-nagari&label=CURRENT+VIEWS&color=00FF41&style=for-the-badge&labelColor=0D1117" alt="views"/>
+<img src="https://img.shields.io/github/followers/genta-bahana-nagari?label=ALLIES&style=for-the-badge&color=00F0FF&labelColor=0D1117&logo=github" alt="followers"/>
+<img src="https://img.shields.io/github/stars/genta-bahana-nagari?label=LOOT&style=for-the-badge&color=FF00E5&labelColor=0D1117&logo=github" alt="stars"/>
+</div>
+
+<h2>What teams can evaluate quickly</h2>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Front End · Full Stack · Adjusted based on needs</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>Dynamic repositories · Open Source contributions</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>Consistent daily activity · Fast learner</p></td>
+</tr>
+</table>
+
+<h2>Proof at a glance</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=genta-bahana-nagari&show_icons=true&theme=dark&bg_color=0D1117&title_color=00FF41&icon_color=00F0FF&border_color=30363D" alt="Genta's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=genta-bahana-nagari&theme=dark&background=0D1117&ring=00FF41&fire=FF00E5&currStreakNum=00FF41&border=30363D" alt="GitHub Streak" width="48%" />
+</div>
+
+<h2>Selected work</h2>
+
+<div align="center">
+  <a href="https://github.com/genta-bahana-nagari/sija-phone">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=genta-bahana-nagari&repo=sija-phone&theme=dark&bg_color=0D1117&title_color=00FF41&border_color=30363D" alt="sija-phone" width="32%" />
+  </a>
+  <a href="https://github.com/genta-bahana-nagari/sija-kerja">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=genta-bahana-nagari&repo=sija-kerja&theme=dark&bg_color=0D1117&title_color=00F0FF&border_color=30363D" alt="sija-kerja" width="32%" />
+  </a>
+  <a href="https://github.com/genta-bahana-nagari/portfolio-page">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=genta-bahana-nagari&repo=portfolio-page&theme=dark&bg_color=0D1117&title_color=FF00E5&border_color=30363D" alt="portfolio-page" width="32%" />
+  </a>
+</div>
+
+<h2>Technical toolkit</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=genta-bahana-nagari&layout=compact&theme=dark&bg_color=0D1117&title_color=00FF41&border_color=30363D" alt="Top Languages" width="60%" />
+</div>
+
+<br>
+
+<div align="center">
+
+<!-- **🧠 Languages & Tools** -->
+<img src="https://skillicons.dev/icons?i=py,cpp,html,css,js,ts,php,bash&theme=dark" />
+<br><br>
+<img src="https://skillicons.dev/icons?i=react,next,nodejs,laravel,tailwind,bootstrap&theme=dark" />
+<br><br>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+<br><br>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,git,linux,debian,ubuntu,nginx,cloudflare,docker,vscode&theme=dark" />
+<br><br>
+<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
 
 </div>
 
+<hr />
 
-# 👨‍💻 About Me
-
-<img align="right" width="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDgyMjl4bWdnb2M0OWgxeHIza2NkcW91MWQ3cnU1ZGRmcDk4MXpndiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H4uE6w9G1uK4M/giphy.gif">
-
-<p align="left">Currently deep learning to pursue Technology & Information career, passionate about Frontend & Backend Technologies. You can explore my portfolio <a href="https://profile.gentabahana.web.id" target="_blank">here</a></p>
-
----
-
-# 🌍 Connect with Me
-
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/1190112258181837031)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gentabahananagari)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/genta-bahana-nagari)
-
----
-
-# 💻 Technical Skills
-
-## Programming & Markup
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-## Frameworks & Libraries
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-
-## Tools & Platforms
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=for-the-badge&logo=node-red&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
-## Networking & Systems
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Apache](https://img.shields.io/badge/Apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![Mosquitto](https://img.shields.io/badge/Mosquitto-%233C5280.svg?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-
-## Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-
----
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=genta-bahana-nagari&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=genta-bahana-nagari&theme=vision-friendly-dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=genta-bahana-nagari&theme=vision-friendly-dark&hide_border=false&layout=compact)
-
----
-
-# 💡 Developer Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/genta-bahana-nagari">GitHub</a><br /><a href="https://www.gentabahana.web.id">Website</a></td>
+</tr>
+</table>
