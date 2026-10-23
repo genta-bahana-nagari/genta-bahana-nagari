@@ -1,9 +1,10 @@
+<div align="start" style="padding: 0.5em;">
+<p><sub><code>root@genta-bahana-nagari:~# systemctl start exploration.service</code></sub></p>
+</div>
 <div align="center">
-
 <table width="100%">
 <tr>
-<td width="64%" valign="middle">
-<p><sub><code>root@genta-bahana-nagari:~# systemctl start exploration.service</code></sub></p>
+<td valign="middle">
 <h1>Genta Bahana Nagari</h1>
 <h2>Front End | Full Stack | Open Source Enthusiast</h2>
 <p><strong>● Eat >> Sleep >> Build >> Repeat</strong></p>
