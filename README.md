@@ -1,5 +1,5 @@
 <div align="start" style="padding: 0.5em;">
-<p><sub><code>root@genta-bahana-nagari:~# systemctl start exploration.service</code></sub></p>
+<p><code>root@genta-bahana-nagari:~# systemctl start exploration.service</code></p>
 </div>
 <div align="center">
 <table width="100%">
