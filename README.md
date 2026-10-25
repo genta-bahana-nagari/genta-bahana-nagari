@@ -30,7 +30,7 @@
 <tr>
 <td width="33%" valign="top"><h3>Role fit</h3><p>Front End · Full Stack · Adjusted based on needs</p></td>
 <td width="33%" valign="top"><h3>Public proof</h3><p>Dynamic repositories · Open Source contributions</p></td>
-<td width="33%" valign="top"><h3>Momentum</h3><p>Consistent daily activity · Fast learner</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>Prefer to be slow but steady · Keep it on track</p></td>
 </tr>
 </table>
 
