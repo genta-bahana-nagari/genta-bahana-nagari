@@ -7,7 +7,8 @@
 <td valign="middle">
 <h1>Genta Bahana Nagari</h1>
 <h2>Front End | Full Stack | Open Source Enthusiast</h2>
-<p><strong>● Eat >> Sleep >> Build >> Repeat</strong></p>
+<!-- <p><strong>● Eat >> Sleep >> Build >> Repeat</strong></p> -->
+<p><strong>Eat >> Sleep >> Build >> Repeat</strong></p>
 <p><sub>Based in Yogyakarta, Indonesia · Busy at Universitas Gadjah Mada</sub></p>
 <p><a href="https://github.com/genta-bahana-nagari">GitHub</a> &nbsp;·&nbsp; <a href="https://www.gentabahana.web.id">Website</a></p>
 </td>
